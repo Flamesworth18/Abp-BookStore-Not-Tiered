@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../src/app/author/author.component.scss"
+    ],
+    "names": [],
+    "file": "author.component.min.css"
+}
